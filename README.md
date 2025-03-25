@@ -39,7 +39,7 @@ Streamlit
 
 📊 Dataset
 
-Source: Kaggle - Twitter Entity Sentiment Analysis
+Source: Kaggle - https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
 Size: 10,000+ labeled tweets
 
@@ -53,6 +53,6 @@ Sentiment Categories:
 
 🔗 Connect with Me
 
-Check out my portfolio: Shaheb's Data Science Portfolio
+Check out my portfolio: https://shahabzack.github.io/Ds_portfolio/
 
 This project represents my passion for NLP and data science. I'm eager to refine my skills and build more advanced models in the future! 🚀
